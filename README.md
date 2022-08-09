@@ -1,1 +1,1 @@
--echo # ether-simple-storage
+JS + Solidity FreeCodeCamp Course
